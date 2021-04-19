@@ -1,8 +1,10 @@
 /* CSS DOCUMENT */
 
 body {
+	line-height: 1;
     background-color: cornsilk;
-    margin-left: 5em;
+    margin: 0;
+	padding: 0;
 }
 
 h1 {
