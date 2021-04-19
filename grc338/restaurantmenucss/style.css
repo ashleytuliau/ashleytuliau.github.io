@@ -1,5 +1,9 @@
 /* CSS DOCUMENT */
 
+body {
+    margin: 2em 2em 2em 2em;
+}
+
 h1 {
     color:aqua;
     font-family: sans-serif;
