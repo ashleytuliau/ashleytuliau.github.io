@@ -1,4 +1,7 @@
 /* CSS DOCUMENT */
+body {
+    background-color: darkgrey;
+}
 
 h1 {
     color:aqua;
