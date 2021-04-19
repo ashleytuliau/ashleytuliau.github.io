@@ -1,0 +1,24 @@
+/* CSS DOCUMENT */
+
+h1 {
+    color:aqua;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: burlywood;
+    font-family: sans-serif;
+}
+
+h3 {
+    color: burlywood;
+}
+
+li {
+    list-style: circle;
+    font-family: serif;
+}
+
+ul {
+    padding: 0;
+}
