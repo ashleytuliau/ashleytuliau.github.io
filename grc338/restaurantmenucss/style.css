@@ -1,10 +1,5 @@
 /* CSS DOCUMENT */
 
-body {
-    background-color: cornsilk;
-    margin-left: 5em;
-}
-
 h1 {
     color:aqua;
     font-family: sans-serif;
@@ -20,7 +15,6 @@ h3 {
 }
 
 li {
-    list-style: square;
     font-family: serif;
 }
 
