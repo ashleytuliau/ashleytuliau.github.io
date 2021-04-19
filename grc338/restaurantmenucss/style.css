@@ -1,0 +1,29 @@
+/* CSS DOCUMENT */
+
+body {
+    background-color: cornsilk;
+    margin-left: 5em;
+}
+
+h1 {
+    color:aqua;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: burlywood;
+    font-family: sans-serif;
+}
+
+h3 {
+    color: burlywood;
+}
+
+li {
+    list-style: square;
+    font-family: serif;
+}
+
+ul {
+    padding: 0;
+}
