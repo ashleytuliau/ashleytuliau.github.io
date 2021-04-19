@@ -1,0 +1,31 @@
+/* CSS DOCUMENT */
+
+body {
+    background-color: honeydew;
+    margin-left: 5em;
+}
+
+h1 {
+    color: midnightblue;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: burlywood;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h3 {
+    color: burlywood;
+}
+
+li {
+    list-style: square;
+    font-family: serif;
+}
+
+ul {
+    padding: 0;
+}
