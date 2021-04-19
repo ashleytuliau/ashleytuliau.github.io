@@ -22,5 +22,7 @@ h3 {
 }
 
 li {
+	list-style: none
     font-family: serif;
+
 }
