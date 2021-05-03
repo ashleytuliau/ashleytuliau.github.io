@@ -33,7 +33,6 @@ body {
 }
 
 figure {
-	display: flex;
     grid-column: 1/5;
     margin: 0em;
 }
