@@ -41,6 +41,7 @@ figure {
 
 img {
     width: 100%; /*Please leave this line.*/
+ padding: 1em 1em 1em 1em;
 }
 
 figcaption{
