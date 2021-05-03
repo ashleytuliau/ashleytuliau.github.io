@@ -101,13 +101,8 @@ main{
     padding: 3em;
 }
 
-.directions{
-    padding: 3em;
-    line-height: 2em;
-}
-
 ol {
-    padding: 0em;
+    padding: 3em;
 }
 
 footer{
