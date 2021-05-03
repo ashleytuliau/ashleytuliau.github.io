@@ -36,20 +36,18 @@ body {
 
 img {
     width: 30em; /*Please leave this line.*/
-    padding-top: 10em;
-    padding-bottom: 10em;
+    padding: 1em 1em 1em 1em;
 }
 
-figure{
-    display: flex;
-    grid-column: 1/5;
-    margin: 2em;
+figure {
+	display: grid;
+     grid-template-columns: 3fr 1fr;
+     grid-template-rows: 1fr;
 }
 
 figcaption{
-    display: inline-block;
-    padding: 1em;
-    color: #c3c3c3;
+	padding: 1em 1em 0em 1.5em;
+	background-color: #daf5f4;
 }
 
 html {
@@ -94,9 +92,8 @@ li{
 }
 
 main{
-    display: grid;
-    grid-template-columns: 2fr 2fr;
-    grid-column: 1/5;
+	display: grid;
+	grid-template-columns: 50% 50%;
 }
 
 .ingredients{
