@@ -76,13 +76,8 @@ h3 {
 	font-size: 1.5em;
 }
 
-ul{
-    list-style: circle;
-}
-
-li{
-	margin: 1em 1em 1em 2em;
-	font-family: sans-serif;
+ul, ol, li {
+    margin: 0.85em 0.5em;
 }
 
 main{
@@ -98,10 +93,6 @@ main{
     padding: 2em;
     color: #2b2b2b;
     line-height: 2em;
-}
-
-ol {
-    padding: 3em;
 }
 
 footer{
