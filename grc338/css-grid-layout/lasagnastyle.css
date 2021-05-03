@@ -35,7 +35,7 @@ body {
 figure {
 	display: flex;
     grid-column: 1/5;
-    margin: 2em;
+    margin: 0em;
 }
 
 img {
