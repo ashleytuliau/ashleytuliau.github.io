@@ -107,11 +107,7 @@ main{
 }
 
 ol {
-    padding: 3em;
-}
-
-section{
-	margin: 2em 1em 3em 1em;
+    padding: 0em;
 }
 
 footer{
