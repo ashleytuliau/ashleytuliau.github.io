@@ -39,10 +39,11 @@ figure {
 }
 
 img {
-    width: 100%; /*Please leave this line.*/
+    width: 30em; /*Please leave this line.*/
 }
 
 figcaption{
+	display: inline-block;
 	padding: 0em 0.5em;
 	font-size: 3.5em;
 }
