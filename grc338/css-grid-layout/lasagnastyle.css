@@ -10,7 +10,6 @@ div.container {
     }
 
     header {
-        background: #888888;
         grid-column: 1/3;
     }
     
