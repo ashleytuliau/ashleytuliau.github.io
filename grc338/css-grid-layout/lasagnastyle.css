@@ -85,16 +85,16 @@ main{
 
 .ingredients{
 	color: #2b2b2b;
-    	padding: 2em;
+    	padding: 0em;
 	line-height: 1em;
 	margin: 0em 0.5em;
 }
 
 .directions{
-   	 color: #2b2b2b;
+   	color: #2b2b2b;
 	line-height: 1em;
-	padding: 2em;
-   	 margin: 0em 0.5em;
+	padding: 0em;
+   	margin: 0em 0.5em;
 }
 
 footer{
