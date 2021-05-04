@@ -34,7 +34,7 @@ body {
 
 figure {
 	 display: grid;
-    grid-column: 1/5;
+    grid-template-columns: 3fr 1fr;
     margin: 0em;
 }
 
@@ -80,7 +80,8 @@ ul, ol, li {
 
 main{
 	display: grid;
-	grid-template-columns: 50% 50%;
+	grid-template-columns: repeat(2, 1fr);
+	grid-column-gap: 1em;
 }
 
 .ingredients{
