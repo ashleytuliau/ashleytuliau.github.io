@@ -45,7 +45,8 @@ img {
 
 figcaption{
 	display: inline-block;
-    	padding: 1em;
+    	padding: 0em;
+	font: 12;
 }
 
 html {
