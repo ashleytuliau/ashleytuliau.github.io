@@ -10,7 +10,7 @@ div.container {
     }
 
     header {
-	margin: 0.5em 0em auto 0.5em;
+	margin: 0.5em 0.5em auto 0em;
     	padding: 0em 0em 0em 0em;
         grid-column: 1/3;
     }
@@ -45,8 +45,9 @@ img {
 
 figcaption{
 	display: inline-block;
-    	padding: 0em;
+    padding: 0em;
 	font: 1em;
+	margin: auto 1em;
 }
 
 html {
@@ -65,18 +66,18 @@ h1 {
 h2 {
 	font-family: sans-serif;
 	font-size: 1.2em;
-	margin: 0.5em 2em 2em 01em;
+	margin: 0.5em 2em 2em 0em;
 }
 
 h3 {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
-	margin: 1em 1em 1em 0em;
+	margin: 1em 1em 1em 0.5em;
 	font-size: 1.5em;
 }
 
 ul, ol, li {
-    margin: 0.85em 0.5em;
+    margin: 1em 0em 0em 0em;
 }
 
 main{
@@ -88,7 +89,7 @@ main{
 .ingredients{
 	color: #2b2b2b;
 	line-height: 1em;
-	margin: 0em 0.5em;
+	margin: 0em 0em 0em 0em;
 	padding: 2em;
 }
 
