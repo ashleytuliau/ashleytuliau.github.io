@@ -30,7 +30,7 @@ div.container {
 
 body {
     background-color: rgb(253,235,205);
-	font: 12;
+	font: 1em;
 }
 
 figure {
@@ -46,7 +46,7 @@ img {
 figcaption{
 	display: inline-block;
     	padding: 0em;
-	font: 12;
+	font: 1em;
 }
 
 html {
