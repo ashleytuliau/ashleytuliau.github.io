@@ -89,6 +89,9 @@ footer {
     align-content: center;
     background-color: rgb(255, 255, 255);
     width: 100%;
+    font-style: normal;
+    text-align: center;
+    font-size: 0.7em;
 }
 
 
