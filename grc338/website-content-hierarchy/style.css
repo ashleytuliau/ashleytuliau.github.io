@@ -1,17 +1,28 @@
 /*CSS DOCUMENT*/
 
 img {
-    width: 100%; 
+    width: 100%;
+    padding: 20em; 
 }
 body {
     background-color:rgb(219, 236, 236);
     font-family:sans-serif;
 }
-nav {
+nav.ul {
+    list-style: ;
     display: inline;
+    list-style-type: none;
+
 }
 figure {
     width: 100%;
+    align-content: center;
+    margin: 0em 0em 0em 0em;
+
+}
+ul {
+    width: 100%;
+
 }
 
 
