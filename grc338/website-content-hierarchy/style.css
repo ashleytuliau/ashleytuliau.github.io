@@ -4,12 +4,16 @@ img {
     width: 100%; 
 }
 body {
-    color:rgb(219, 236, 236);
+    background-color:rgb(219, 236, 236);
     font-family:sans-serif;
 }
 nav {
     display: inline;
 }
+figure {
+    width: 100%;
+}
+
 
 
 /*Please don’t change this CSS stylesheet for the content hierarchy assginment */
