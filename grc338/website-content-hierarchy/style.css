@@ -3,5 +3,13 @@
 img {
     width: 100%; 
 }
+body {
+    color:rgb(219, 236, 236);
+    font-family:sans-serif;
+}
+nav {
+    display: inline;
+}
+
 
 /*Please don’t change this CSS stylesheet for the content hierarchy assginment */
