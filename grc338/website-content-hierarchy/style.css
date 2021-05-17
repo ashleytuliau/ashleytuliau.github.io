@@ -3,6 +3,7 @@
 img {
     width: 50%;
     padding: 0em; 
+    background: rgb(255, 255, 255);
 }
 h2 {
     font-weight: bold;
@@ -15,6 +16,7 @@ body {
 nav ul {
     padding: 0em;
     margin: 0em;
+    background-color: rgb(255, 255, 255);
 }
 nav ul li {
     display: inline;
@@ -41,6 +43,8 @@ footer {
     align-content: center;
     background-color: rgb(255, 255, 255);
 }
+
+
 
 
 /*Please don’t change this CSS stylesheet for the content hierarchy assginment */
