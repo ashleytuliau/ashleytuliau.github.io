@@ -1,10 +1,5 @@
 /*CSS DOCUMENT*/
 
-div.container {
-    max-width: 60em;
-    margin: auto;
-    display: grid;
-}
 img {
     width: 100%;
     padding: 20em; 
