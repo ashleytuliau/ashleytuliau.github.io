@@ -4,6 +4,10 @@ img {
     width: 50%;
     padding: 0em; 
 }
+h2 {
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+}
 body {
     background-color:rgb(219, 236, 236);
     font-family:sans-serif;
@@ -33,8 +37,10 @@ figure {
     width: 100%;
     margin: 0em 0em 0em 0em;
 }
-
-
+footer {
+    align-content: center;
+    background-color: rgb(255, 255, 255);
+}
 
 
 /*Please don’t change this CSS stylesheet for the content hierarchy assginment */
