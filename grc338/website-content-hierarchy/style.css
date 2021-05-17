@@ -1,5 +1,10 @@
 /*CSS DOCUMENT*/
 
+div.container {
+    max-width: 60em;
+    margin: auto;
+    display: grid;
+}
 img {
     width: 100%;
     padding: 20em; 
@@ -8,22 +13,20 @@ body {
     background-color:rgb(219, 236, 236);
     font-family:sans-serif;
 }
-nav.ul {
-    list-style: ;
+nav ul {
+    padding: 0em;
+    margin: 0em;
+}
+nav ul li {
     display: inline;
     list-style-type: none;
-
 }
 figure {
     width: 100%;
     align-content: center;
     margin: 0em 0em 0em 0em;
-
 }
-ul {
-    width: 100%;
 
-}
 
 
 
