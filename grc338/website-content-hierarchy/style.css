@@ -1,7 +1,7 @@
 /*CSS DOCUMENT*/
 
 img {
-    width: 100%;
+    width: 50%;
     padding: 0em; 
 }
 body {
@@ -19,12 +19,15 @@ nav ul li {
     text-transform: uppercase;
     font-weight: bold;
     margin-right: 1em;
-    font-size: 0.5em;
+    font-size: 1em;
     text-align: center;
 }
 nav ul li a {
     color:rgb(0, 0, 0);
     text-decoration: none;
+}
+nav ul li a:hover {
+    color:rgb(219, 236, 236);
 }
 figure {
     width: 100%;
