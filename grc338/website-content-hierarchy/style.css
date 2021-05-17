@@ -15,6 +15,14 @@ nav ul {
 nav ul li {
     display: inline;
     list-style-type: none;
+    align-content: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 1em;
+    font-size: 1.4em;
+}
+nav ul li a {
+    text-decoration: none;
 }
 figure {
     width: 100%;
