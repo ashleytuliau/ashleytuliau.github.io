@@ -1,0 +1,145 @@
+/*CSS DOCUMENT*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+div.container{
+    max-width: 50em;
+    margin: auto;
+    padding: 1em;
+    align-content: center;
+}
+.title {
+    font-family: 'pattaya';
+    font-size: 2.3em;
+}
+img {
+    width: 100%;
+    max-width: 60em;
+}
+h1{
+    width: 3em;
+    max-width: 60em;
+    margin: auto;
+}
+h2 {
+    margin-right: 0em;
+    margin-left: 0em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+    text-align:  center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size:1.7em;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+h3 {
+    max-width: 60em;
+    margin-right: 0em;
+    margin-left: 0em;
+    margin-top:0.5em;
+    margin-bottom:0.2em;
+    padding-left: 0.5em;
+    padding-right: 0em;
+    text-align:left;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size:1.5em;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+body {
+    max-width: 60em;
+    background-color:rgb(219, 236, 236);
+    font-family: 'Montserrat', sans-serif;
+    margin: 0em 0em 0em 0em;
+}
+p {
+    max-width: 60em;
+    font-family:  'Montserrat', sans-serif;
+    font-style: normal;
+    margin-bottom: 1em;
+    margin-left: 0.5em;
+    font-size: 1em;
+    }
+nav ul {
+    padding: auto;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+nav ul li {
+    display: inline;
+    list-style-type: none;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-right: 3%;
+    margin-left: 3%;
+    font-size: 0.8em;
+    text-align: center;
+    right: 50%;
+    left: 50%;
+    align-content: center;
+}
+nav ul li a {
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+}
+nav ul li a:hover {
+    color:rgb(219, 236, 236);
+}
+figure {
+    width: 100%;
+    margin: 0em 0em 0em 0em;
+    padding: 0em 0em 0em 0em;
+}
+footer {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    font-style: normal;
+    text-align: center;
+    font-size: 0.7em;
+}
+ul {
+    padding: 0;
+}
+ul li {
+    list-style-type: none;
+    margin-bottom: 1em;
+}
+ul li h4 {
+    margin: 0;
+}
+ul li p {
+    margin: 0;
+    line-height: 1.4em;
+}
+
+@media screen and (min-width: 40em){
+    html{
+        max-width: 55em;
+        margin: auto;
+    }
+    h2 {
+        display: grid;
+        text-align: center;
+    }
+    header{
+        display: grid;
+        grid-template-columns: 1fr 5fr;
+    }
+    nav ul{
+        text-align: right;
+        margin-top: 9em;
+    }
+    .title {
+        font-size: 2.7em;
+    }
+
+
+
+
+/*Please don’t change this CSS stylesheet for the content hierarchy assginment */}
