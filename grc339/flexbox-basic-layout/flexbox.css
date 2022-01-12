@@ -1,0 +1,31 @@
+/*CSS DOCUMENT*/
+
+div.container {
+	display: flex;
+    flex-wrap: wrap;
+}
+
+header {
+    background: #888888;
+    flex-basis: 20em;
+    flex-grow: 1;
+}
+
+article {
+    background: #aaaaaa;
+    flex-basis: 20em;
+    flex-grow: 1;
+}
+
+aside {
+    background: #cccccc;
+    flex-basis: 20em;
+    flex-grow: 1;
+}
+
+footer {
+    background: #eeeeee;
+    flex-basis: 20em;
+    flex-grow: 1;
+}
+
