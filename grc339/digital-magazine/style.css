@@ -100,9 +100,14 @@ footer {
     grid-column: 1/3;
     background-color: rgb(255,127,80);
     padding-left: 2em;
+    text-align: center;    
 }
 
-
+div.photogallery {
+  display: grid;
+  grid-template-columns: 18fr 1fr;
+  grid-gap: 0 2em;
+}
 section.photogallery img {
 	width: 100%;
 }
@@ -146,7 +151,9 @@ section.photogallery h1 {
     font-style: normal;
     margin-bottom: 0.5em;
     font-size: 3em;
+    line-height: 1em;
 }
+
 section.photogallery input {
     display:none;
 }
@@ -164,7 +171,7 @@ flex-direction: column;
 font-family: mixta-didone-alt, serif;
 font-style: normal;
 margin-top: 0em;
-margin-bottom: 1em; 
+margin-bottom: 5em; 
 line-height: 1.5em;
 font-weight: 200;
 }
@@ -181,7 +188,7 @@ section.form h2 {
     font-family: mixta-didone-alt, serif;
     font-weight: 400;
     font-style: normal;
-    margin-bottom: o.5em;
+    margin-bottom: 0.5em;
     font-size: 3em;
     line-height: 1em;
 }
@@ -193,6 +200,9 @@ section.form h3 {
     font-style: normal;
     margin-top: 0em;
     margin-bottom: 0.25em;
+    background-color: rgb(255,127,80);
+    color: rgb(255,255,255);
+    padding: 0.5em;
 }
 section.form img {
     width: 100%;
